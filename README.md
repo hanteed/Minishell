@@ -2,7 +2,7 @@
 
 ![Logo](https://cdn.discordapp.com/attachments/742825059122413768/1097908758417514627/Capture_decran_du_2023-04-18_17-36-10.png)
 
-The minishell project is designed to handle simple and more complex tasks with custom features. The project works out of the box and creates a folder inside the user's home folder (/home/<user>/.minishell) that contains all the files created by the shell (history, .minishellrc, .minipasswd).
+The minishell project is designed to handle simple and more complex tasks with custom features. The project works out of the box and creates a folder inside the user's home folder (/home/user/.minishell) that contains all the files created by the shell (history, .minishellrc, .minipasswd).
 ## Dependencies
 
 In order to run, the projet needs the sodium library (https://doc.libsodium.org/).
