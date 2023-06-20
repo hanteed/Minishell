@@ -1,6 +1,6 @@
 # Minishell
 
-![Logo](https://cdn.discordapp.com/attachments/742825059122413768/1120809718332543057/image.png)
+![Logo](https://cdn.discordapp.com/attachments/742825059122413768/1120810307766468740/image.png)
 
 The minishell project is designed to handle simple and more complex tasks with custom features. The project works out of the box and creates a folder inside the user's home folder (/home/user/.minishell) that contains all the files created by the shell (history, .minishellrc, .minipasswd).
 ## Dependencies
